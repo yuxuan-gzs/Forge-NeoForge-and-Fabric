@@ -1,0 +1,34 @@
+﻿  NeoForge to Fabric 1.21.1 Source Code Converter.cpp
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\Converter.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\utils.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\SymbolTable.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\ASTParser.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\ASTParser.h(90,40): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\ASTParser.h(259,34): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\RuleEngine.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\RuleEngine.h(334,42): warning C4101: “e”: 未引用的局部变量
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\FileScanner.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\TemplateGenerator.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“NeoForge%20to%20Fabric%201.21.1%20Source%20Code%20Converter.cpp”)
+  
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter.cpp(11,1): warning C4566: 由通用字符名称“\u26A0”表示的字符不能在当前代码页(936)中表示出来
+D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter\NeoForge to Fabric 1.21.1 Source Code Converter.cpp(11,1): warning C4566: 由通用字符名称“\uFE0F”表示的字符不能在当前代码页(936)中表示出来
+  NeoForge to Fabric 1.21.1 Source Code Converter.vcxproj -> D:\NeoForge to Fabric\NeoForge to Fabric 1.21.1 Source Code Converter\x64\Debug\NeoForge to Fabric 1.21.1 Source Code Converter.exe
