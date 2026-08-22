@@ -48,15 +48,3 @@
 | ✅ **MCreator Output** | Generates `.mcreator` workspace files ready for import |
 | ✅ **Source Preservation** | Retains original Java source code structure |
 | ✅ **ZIP Packaging** | Automatically packages the workspace as a ZIP archive |
-
----
-
-## 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ModMigrator.git
-cd ModMigrator
-
-# Run the application
-ModMigrator.exe
