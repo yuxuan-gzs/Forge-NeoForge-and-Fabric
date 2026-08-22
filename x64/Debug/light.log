@@ -1,8 +1,0 @@
-﻿  light.cpp
-D:\YX\light\light\light.cpp(367,55): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
-D:\YX\light\light\light.cpp(1325,42): warning C4566: 由通用字符名称“\u2713”表示的字符不能在当前代码页(936)中表示出来
-D:\YX\light\light\light.cpp(1328,42): warning C4566: 由通用字符名称“\u26A0”表示的字符不能在当前代码页(936)中表示出来
-D:\YX\light\light\light.cpp(1339,42): warning C4566: 由通用字符名称“\u2713”表示的字符不能在当前代码页(936)中表示出来
-D:\YX\light\light\light.cpp(1343,42): warning C4566: 由通用字符名称“\u2717”表示的字符不能在当前代码页(936)中表示出来
-D:\YX\light\light\light.cpp(1347,38): warning C4566: 由通用字符名称“\u2717”表示的字符不能在当前代码页(936)中表示出来
-  light.vcxproj -> D:\YX\light\x64\Debug\light.exe
